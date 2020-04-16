@@ -1,0 +1,33 @@
+body{
+h1 {text-align:center;
+  color:white;
+  font-weight:bold;
+  font-size:70;
+  font-family:Hobo Std;}
+menu {
+word-spacing: 150px;
+letter-spacing:2px;
+font-size: 45px;
+font-family:Stencil Std;
+font-weight:bold;
+text-align: center;
+color:white;
+opacity:0.8;
+padding:10px;
+}
+a {
+color:white;
+padding:20px;
+}
+a:link {
+color:white;
+text-decoration:none;
+}
+a:hover {
+background-color:#1ab5d1;
+}
+pg1 {
+color:black;
+background-color:#1ab5d1;
+}
+}
